@@ -1,0 +1,24 @@
+{
+    "id": 10043,
+    "description": "这是一个关于用户调查的问卷",
+    "questions": [
+        {
+            "questionText": "您的姓名是?",
+            "questionType": "text"
+        },
+        {
+            "questionText": "您的性别是?",
+            "questionType": "single"
+        }
+    ],
+    "choices": [
+        {
+            "questionSeq": 2,
+            "content": "男"
+        },
+        {
+            "questionSeq": 2,
+            "content": "女"
+        }
+    ]
+}
